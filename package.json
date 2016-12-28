@@ -1,0 +1,26 @@
+{
+  "name": "docbela",
+  "version": "1.0.0",
+  "description": "hook server for docbela slack app",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lamap/docbela.git"
+  },
+  "keywords": [
+    "docbela"
+  ],
+  "author": "lamap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lamap/docbela/issues"
+  },
+  "homepage": "https://github.com/Lamap/docbela#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "request": "^2.79.0"
+  }
+}
